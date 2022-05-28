@@ -120,6 +120,6 @@ body {
     .content {
         background-image: url("../img/slide1.jpg");
         background-size: 100%;
-        background-position: 0% 64px;
+        background-position: 0% -25px;
     }
 }
